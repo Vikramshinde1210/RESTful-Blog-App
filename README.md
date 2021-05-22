@@ -4,8 +4,7 @@
 <a href="https://dailyblogsite.herokuapp.com/blogs">Click here to view project</a> 
 
 
-RESTful routing blog app from "The Web Developer Bootcamp" by Colt Steele: https://www.udemy.com/the-web-developer-bootcamp/
-
+RESTful routing blog app 
 ## Summary 
 
 Blogging web app created to practice RESTful routing.
